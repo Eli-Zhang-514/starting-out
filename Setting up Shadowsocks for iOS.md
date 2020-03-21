@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="setting-up-shadowsocks-for-ios"><strong>Setting up Shadowsocks for iOS</strong></h1>
 <p>Showdowsocks is a Sock5 proxy based on an  <a href="https://github.com/shadowsocks">opensource projoect</a>  designated to enable users to have full access to the Internet.</p>
 <h2 id="system-requirements">System Requirements</h2>
