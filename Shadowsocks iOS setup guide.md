@@ -1,11 +1,11 @@
 
-<h1 id="setting-up-shadowsocks-for-ios"><strong>Setting up ShadowSocks for iOS</strong></h1>
+<h1 id="setting-up-shadowsocks-for-ios"><strong>Setting up Shadowsocks for iOS</strong></h1>
 <p>Showdowsocks is a Sock5 proxy based on an <a href="https://github.com/shadowsocks">opensource projoect</a> designated to enable users to have full access to the Internet.</p>
 <h2 id="system-requirements">System Requirements</h2>
-<p>ShadowRocket is supported on iOS 9.0 or higher. Please upgrade your system first and follow the steps below.</p>
+<p>Shadowrocket is supported on iOS 9.0 or higher. Please upgrade your system first and follow the steps below.</p>
 <h2 id="download-app">Download App</h2>
 <ul>
-<li>Log on to your App Store (Please note: ShadowRocket is not available on Chinese Mainland)</li>
+<li>Log on to your App Store (Please note: Shadowrocket is not available on Chinese Mainland)</li>
 <li>Search for and download <code>Shadowrocket</code></li>
 </ul>
 <h2 id="app-configuration">App Configuration</h2>
