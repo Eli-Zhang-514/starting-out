@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="shadowsocks-ios版本安装教程"><strong>Shadowsocks iOS版本安装教程</strong></h1>
 <p>Shadowsocks是一个Sock5代理服务<a href="https://github.com/shadowsocks">开源项目</a>，旨在为用户解锁互联网。</p>
