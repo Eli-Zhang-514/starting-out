@@ -11,7 +11,7 @@
 <h2 id="应用设置">应用设置</h2>
 <ul>
 <li>登陆<a href="https://portal.shadowsocks.nl">我们官网</a></li>
-<li>依此点击<code>服务 &gt; 我的服务</code>并选择您选择您购买的服务</li>
+<li>依次点击<code>服务 &gt; 我的服务</code>并选择您选择您购买的服务</li>
 <li>在此可以看到您的服务的状态和详细信息<br>
 <img src="https://portal.shadowsocks.nl/files/images-en/portal.png" alt="node information screenshot"></li>
 </ul>
